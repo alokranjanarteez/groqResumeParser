@@ -1,5 +1,3 @@
-# groqResumeParser
-
 # Resume Parser with GROQ LLM
 
 A Streamlit-based application that uses GROQ's LLM to parse resumes in PDF format and extract structured information.

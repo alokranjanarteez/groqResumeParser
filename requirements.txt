@@ -1,0 +1,7 @@
+groq
+langchain
+streamlit
+pandas
+pdf2docx
+python-dotenv
+PyPDF2
